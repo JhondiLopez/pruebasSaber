@@ -1,0 +1,64 @@
+body{
+    background-image: url("../img/fondo.jpg");
+}
+
+.principal{
+    margin: 60px;
+}
+
+p{
+    font-size: 22px;
+    font-family: 'Mukta', sans-serif;
+}
+
+h1, h2{
+    font-family: 'Lora', serif;
+}
+
+footer{
+    background-color: #ebeaea;
+    height: 80px;
+}
+
+.formlogin{
+    background-color: #ebeaea;
+    width: 400px;
+    height:400px;
+}
+
+.formagregar{
+    background-color: #ebeaea;
+    width: 700px;
+    height: 2200px;
+}
+
+.boton{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(0, 81, 24);;
+    color: rgb(0, 81, 24);
+}
+
+.boton:hover{
+    background-color: rgb(0, 81, 24);;
+    color: white;
+}
+
+.botonsubmit{
+    background-color: rgb(0, 81, 24);
+    color: white;
+}
+
+.botonsubmit:hover{
+    background-color: rgb(5, 36, 5);
+    color: white;
+}
+
+thead th, td {
+    text-align: center;
+}
+
+.nuevo{
+    text-decoration: none;
+    color: black;
+}
